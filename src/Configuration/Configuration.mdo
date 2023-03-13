@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b0487377-07dc-4c2d-8348-1d682354a198">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="2d5ba938-3d18-44f5-9632-f9ad2a13608a"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="c831ccf5-a262-40b5-82aa-6bf879494bbf"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="39426ccf-2868-4005-ac4f-b9f0ac03a156"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="ff21f514-69ff-4d76-a8f4-0f2c40f4cf66"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="72051dfb-52b5-4c08-8dff-460b0e177aef"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="f1ffa2e2-54fa-411f-b344-656977f978d3"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="bd8d0020-522f-4f3b-b656-aa0667dd7639"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="85f54d34-89d2-4c0d-8491-ad9430a4cf11">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.GItHub</subsystems>
+  <commonForms>CommonForm.Форма_HelloGit</commonForms>
+  <catalogs>Catalog.Тестовый</catalogs>
+</mdclass:Configuration>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c55fa64a-d861-4f4b-9ceb-4ae3d3ad681b">
+  <name>GItHub</name>
+  <synonym>
+    <key>ru</key>
+    <value>Git hub</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonForm.Форма_HelloGit</content>
+  <content>Catalog.Тестовый</content>
+</mdclass:Subsystem>
